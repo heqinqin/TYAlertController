@@ -7,6 +7,6 @@ s.license      = 'MIT'
 s.authors      = {'heqinqin' => '546551235@qq.com'}
 s.platform     = :ios, '7.0'
 s.source       = {:git => 'https://github.com/heqinqin/TYAlertController.git', :tag => s.version}
-s.source_files = 'TYAlertControllerDemo/TYAlertController/*.{h,m}'
+s.source_files = 'TYAlertController/*.{h,m}'
 s.requires_arc = true
 end
